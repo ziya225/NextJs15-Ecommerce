@@ -1,0 +1,17 @@
+export const WEB_ROUTES = {
+    HOME: '/',
+    ABOUT: '/about',
+    CONTACT: '/contact',
+    SERVICES: '/services',
+    BLOG: '/blog',
+    FAQ: '/faq',
+    TERMS: '/terms',
+    PRIVACY: '/privacy',
+    LOGIN: '/auth/login',
+    REGISTER: '/auth/register',
+    DASHBOARD: '/dashboard',
+    PROFILE: '/dashboard/profile',
+    SETTINGS: '/dashboard/settings',
+    CHANGEPASSWORD: '/dashboard/change-password',
+    LOGOUT: '/auth/logout',
+};
